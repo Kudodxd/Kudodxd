@@ -13,9 +13,9 @@
 - 📫 私に連絡：tcnminh@gmail.com; https://www.facebook.com/kudo.pion
 --->
 
-Update:
-- 🌱 I'm 3-year now and finding a dream job.
-- Wandering about SE or DevOps
+✨**UPDATE:**
+- 🌱 I'm 3-year now and having a strong passion about Machine Learning and Networking.
+- Wandering about MLOps or DevOps.
 <!---
 Kudodxd/Kudodxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
