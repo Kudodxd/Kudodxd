@@ -1,13 +1,13 @@
-- 👋 Hi, I’m NhatMinh
-- 👀 I’m interested in ML-DLs and Speech Language Processing
-- 🌱 I’m currently learning 1-year Master in Shizuoka University Japan <br> 
+- 👋 Hi, I’m Nhat Minh.
+- 👀 I’m interested in ML-DLs and Speech Language Processing.
+- 🌱 I’m currently learning 1-year Master in Shizuoka University Japan. <br>
 <!---
 - 📫 How to reach me: tcnminh@gmail.com and https://www.facebook.com/kudo.pion 
 --->
 
 ## 　【日本語】
 - 👋 こんにちは！ ミンです。
-- 👀 機械学習と深層学習に興味がある。特に音声言語処理
+- 👀 機械学習と深層学習に興味がある。特に音声言語処理。
 - 🌱 静岡大学院に1年生です。<br> 
 <!---
 - 📫 私に連絡：tcnminh@gmail.com; https://www.facebook.com/kudo.pion
