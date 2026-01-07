@@ -14,7 +14,7 @@
 --->
 
 ✨**UPDATE:**
-- 🌱 I'm 3-year now and having a strong passion about Machine Learning and Networking.
+- Having a strong passion about Machine Learning and Networking.
 - Wandering about MLOps or DevOps.
 - Struggling with Speech Foundation Model, especially the one integrating with LLMs.
 <!---
